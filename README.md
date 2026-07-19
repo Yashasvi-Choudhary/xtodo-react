@@ -112,7 +112,7 @@ npm run dev
 ![Home Screen](./screenshots/home.png)
 - Add Todo Form
 
- ![Add Todo](./screenshots/add-todo.png)
+ ![Add Todo](./screenshots/addTodo.png)
 
 ---
 
